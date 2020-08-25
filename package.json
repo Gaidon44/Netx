@@ -1,0 +1,19 @@
+{
+  "name": "netx",
+  "version": "1.0.0",
+  "description": "Offline Websitse that will be accessed without internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaidon44/Netx.git"
+  },
+  "author": "Gaidon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaidon44/Netx/issues"
+  },
+  "homepage": "https://github.com/Gaidon44/Netx#readme"
+}
