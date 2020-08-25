@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@500&family=Noto+Sans&display=swap");
+button, button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.font-tamma {
+  font-family: "Baloo Tamma 2", cursive;
+}
+
+.font-noto {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-20 {
+  font-size: 12px;
+}
+
+/*# sourceMappingURL=style.css.map */
