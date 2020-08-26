@@ -36,4 +36,12 @@ button, button:focus {
   background: #07233f;
 }
 
+.view{
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center center; 
+  background-image: linear-gradient(to right, #000000 30%, rgba(0, 0, 0, 0)),url(assets/Banner.jpg);
+}
+
 /*# sourceMappingURL=style.css.map */
