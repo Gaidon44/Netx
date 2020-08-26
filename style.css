@@ -21,7 +21,19 @@ button, button:focus {
 }
 
 .font-size-20 {
-  font-size: 12px;
+  font-size: 20px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.color-primary {
+  color: #07233f;
+}
+
+.color-primary-bg {
+  background: #07233f;
 }
 
 /*# sourceMappingURL=style.css.map */
